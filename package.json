@@ -11,7 +11,9 @@
     "server": "nodemon server/index.js"
   },
   "dependencies": {
-    "nodemon": "^2.0.2"
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
