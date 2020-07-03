@@ -48,10 +48,9 @@ td.guestNumbers {
   padding: 0 0 0 10px;
 }
 
-
 Button.reserveButton {
   float: center;
-  border-color:#888888 !important;
+  border-color: #888888 !important;
   box-shadow: 0.5px 0.5px 5px #888888;
   border-radius: 1px !important;
   height: 35px;
@@ -123,5 +122,5 @@ Button#adultMinus {
 
 #recommendations {
   position: relative;
-  z-index: -1;
+  /* z-index: -1; */
 }
